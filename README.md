@@ -14,6 +14,8 @@ Like its predecessor, the overall purpose of Slothfetch is to be used in screens
 
 By default, information is displayed alongside your operating system's logo, which can be completely customized.
 
+---
+
 ### ⚡ What's New in Slothfetch?
 
 Slothfetch brings several critical modernizations over its predecessor:
@@ -21,6 +23,8 @@ Slothfetch brings several critical modernizations over its predecessor:
 * **Modern Hardware Parsing:** Overhauled GPU detection cleanly parses modern hardware strings without OEM clutter.
 * **Container & Display Server Detection:** Natively detects and displays modern environments including Podman, Docker, LXC, Incus, X11, and Wayland.
 * **Seamless Migration:** Automatically detects and migrates legacy configurations to the new `~/.config/slothfetch/` directory path.
+
+---
 
 ### ⚙️ Configuration
 
