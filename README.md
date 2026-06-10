@@ -2,8 +2,6 @@
 
 **A highly-optimized, command-line system information tool written in Bash**
 
-<p align="center"><a href="./LICENSE.md"><img src="https://img.shields.io/badge/MIT-License-blue.svg"></a></p>
-
 **Slothfetch** is a modern, actively maintained command-line system information tool written in `Bash`. 
 
 Born as a direct fork of the now-abandoned Neofetch project, Slothfetch is designed to be more accurate, and built for modern environments. 
