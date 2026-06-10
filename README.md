@@ -40,12 +40,12 @@ Slothfetch supports almost 150 different operating systems from Linux and BSD, t
 
 **Required:**
 * `Bash` (3.2+)
-* Standard GNU Coreutils
+* Standard GNU `Coreutils`
 
 **Optional (for specific modules and image rendering):**
 * `w3m-img` or `ueberzug` (for image rendering in supported terminals)
 * `pciutils` (`lspci`) for precise GPU detection
-* A modern terminal console with graphics support (ie. kitty)
+* A modern terminal console with graphics support (ie. `kitty`)
 
 ---
 
@@ -53,7 +53,8 @@ Slothfetch supports almost 150 different operating systems from Linux and BSD, t
 
 Because Slothfetch is a single, standalone script, it is extremely easy to drop into any environment. 
 
-**Manual Installation (Recommended):**
+**Manual Installation (Recommended)**
+
 You can easily clone the repository and install it directly to your binary path using the included Makefile:
 
 ```bash
@@ -62,11 +63,12 @@ cd slothfetch
 sudo make install
 ```
 
-**Direct Download:**
+**Direct Download**
+
 Alternatively, simply download the script, make it executable, and move it to your path:
 
 ```bash
-wget [https://raw.githubusercontent.com/fpucore/slothfetch/master/slothfetch](https://raw.githubusercontent.com/fpucore/slothfetch/master/slothfetch)
+wget https://raw.githubusercontent.com/fpucore/slothfetch/master/slothfetch
 chmod +x slothfetch
 sudo mv slothfetch /usr/local/bin/
 ```
@@ -78,6 +80,7 @@ sudo mv slothfetch /usr/local/bin/
 This project is licensed under The **MIT License** - see the [LICENSE](LICENSE) file for details.
 
 *Copyright (c) 2015-2021, Dylan Araps*
+
 *Copyright (c) 2026, Chris McGimpsey-Jones*
 
 ---
