@@ -24,8 +24,6 @@ Slothfetch brings several critical modernizations over its predecessor:
 * **Container & Display Server Detection:** Natively detects and displays modern environments including Podman, Docker, LXC, Incus, X11, and Wayland.
 * **Seamless Migration:** Automatically detects and migrates legacy configurations to the new `~/.config/slothfetch/` directory path.
 
-<img src="https://i.imgur.com/lUrkQBN.png" alt="slothfetch terminal" align="right" height="240px">
-
 ### ⚙️ Configuration
 
 You can configure Slothfetch to display exactly what you want. 
